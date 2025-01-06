@@ -40,4 +40,14 @@ The **Jarvis Routing System** project aims to address critical challenges in log
 ├── requirements.txt    # Python dependencies  
 
 
+## Screenshots 
+
+- ![Screenshot_2025-01-06_232805 1](https://github.com/user-attachments/assets/7469fa96-7d69-483e-addc-ab4584f5bd26)
+- ![Screenshot_2025-01-06_232838 1](https://github.com/user-attachments/assets/3457ca1a-7e7e-4797-a43c-3a36f4cbe913)
+- ![Screenshot_2025-01-06_232910 1](https://github.com/user-attachments/assets/b97c0892-3890-460c-b0b3-a06667435dc3)
+
+
+
+
+
 
