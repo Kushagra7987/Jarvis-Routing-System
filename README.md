@@ -19,7 +19,7 @@ The **Jarvis Routing System** project aims to address critical challenges in log
 - **Python**: For core logic, API integrations, and emissions calculations.
 
  
-  - 📡 APIs Used
+## APIs Used
 
 - Google Maps API: For route generation and distance calculations.
 - TomTom API: For real-time traffic incident data.
@@ -27,7 +27,7 @@ The **Jarvis Routing System** project aims to address critical challenges in log
 - OSRM: For alternative route optimization (future integration).
 
 
- **Project Structure**
+ ## Project Structure
 
 ├── templates/  
 │   ├── base.html       # Base template for UI structure  
