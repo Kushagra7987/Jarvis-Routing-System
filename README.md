@@ -21,22 +21,23 @@ The **Jarvis Routing System** project aims to address critical challenges in log
  
   - 📡 APIs Used
 
-Google Maps API: For route generation and distance calculations.
-TomTom API: For real-time traffic incident data.
-AQICN API: For air quality data.
-OSRM: For alternative route optimization (future integration).
+- Google Maps API: For route generation and distance calculations.
+- TomTom API: For real-time traffic incident data.
+- AQICN API: For air quality data.
+- OSRM: For alternative route optimization (future integration).
 
 
  **Project Structure**
 
 ├── templates/  
-          ├── base.html       # Base template for UI structure  
-          ├── index.html      # Home page with user input form  
-          ├── result.html     # Results page with route and emissions data  
+│   ├── base.html       # Base template for UI structure  
+│   ├── index.html      # Home page with user input form  
+│   ├── result.html     # Results page with route and emissions data  
 ├── static/  
-          ├── style.css       # Stylesheet for the project  
+│   ├── style.css       # Stylesheet for the project  
 ├── app.py              # Main application file  
 ├── README.md           # Project documentation  
- 
+├── requirements.txt    # Python dependencies  
+
 
 
