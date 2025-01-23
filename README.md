@@ -2,22 +2,25 @@
 
 ## Overview
 
-The **Jarvis Routing System** project aims to address critical challenges in logistics and transportation by developing a Dynamic Route Optimization System. The system leverages real-time data from multiple APIs to optimize delivery routes, estimate vehicle emissions, and promote environmental sustainability.
+The **Jarvis Routing System** is an advanced Dynamic Route Optimization System designed to address key challenges in logistics and transportation. By leveraging real-time data from multiple APIs, the system optimizes delivery routes, estimates vehicle emissions, and promotes environmentally conscious decision-making. With a focus on efficiency and scalability, it offers actionable insights to reduce costs and emissions, supporting both small and large-scale logistics operations.
 
 ## Features
 
-- **Route Optimization**: Calculates the best routes based on current traffic conditions.
-- **Traffic Incident Reporting**: Displays real-time traffic incidents along the route.
-- **Air Quality Index (AQI)**: Provides air quality information for both the origin and destination locations.
-- **Emission Calculations**: Estimates CO2 emissions based on the distance traveled and vehicle fuel efficiency.
-- **User -Friendly Interface**: Simple and intuitive web interface for easy navigation.
+
+- **Dynamic Route Optimization :** Generates optimized routes based on real-time traffic, distance, and user preferences.
+- **Real-Time Traffic Data :** Displays live traffic updates and incidents along the route to ensure efficiency.
+- **Weather Integration :** Incorporates real-time weather data from the OpenWeatherMap API for enhanced route planning during disruptions.
+- **CO₂ Emission Calculations :** Provides detailed CO₂ emission estimates for selected routes based on vehicle type and fuel efficiency.
+- **Air Quality Insights :** Offers AQI data for both the origin and destination to aid eco-friendly decision-making.
+- **Interactive and User-Friendly Interface :** Intuitive web interface with an interactive map for seamless navigation and route selection.
+- **Scalability :** Designed to handle complex operations, including large fleets and multi-destination routing (planned as a future enhancement)
 
 ## Technologies Used
 
 - **Backend**: Flask
-- **Frontend**: HTML, CSS
+- **Frontend**: HTML, CSS , JS
 - **Python**: For core logic, API integrations, and emissions calculations.
-
+  
  
 ## APIs Used
 
@@ -25,19 +28,21 @@ The **Jarvis Routing System** project aims to address critical challenges in log
 - TomTom API: For real-time traffic incident data.
 - AQICN API: For air quality data.
 - OSRM: For alternative route optimization (future integration).
+- OpenWeatherMap API: For live weather data integration to improve route planning.
 
-
- ## Project Structure
 
 ├── templates/  
-│   ├── base.html       # Base template for UI structure  
-│   ├── index.html      # Home page with user input form  
-│   ├── result.html     # Results page with route and emissions data  
+│   ├── base.html        # Base template for UI structure  
+│   ├── index.html       # Home page with user input form  
+│   ├── result.html      # Results page with route, emissions, and weather data  
+│   ├── map.html         # Interactive map display for route visualization  
+│   ├── about.html       # About page providing details on the project and team  
+│   ├── contact.html     # Contact page for user queries or feedback  
 ├── static/  
-│   ├── style.css       # Stylesheet for the project  
-├── app.py              # Main application file  
-├── README.md           # Project documentation  
-├── requirements.txt    # Python dependencies  
+│   ├── style.css        # Stylesheet for the project  
+├── app.py               # Main application file containing logic and API integrations  
+├── README.md            # Project documentation  
+├── requirements.txt     # Python dependencies  
 
 
 ## Screenshots 
