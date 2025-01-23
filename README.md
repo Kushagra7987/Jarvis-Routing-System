@@ -42,9 +42,14 @@ The **Jarvis Routing System** project aims to address critical challenges in log
 
 ## Screenshots 
 
-- ![Screenshot_2025-01-06_232805 1](https://github.com/user-attachments/assets/7469fa96-7d69-483e-addc-ab4584f5bd26)
-- ![Screenshot_2025-01-06_232838 1](https://github.com/user-attachments/assets/3457ca1a-7e7e-4797-a43c-3a36f4cbe913)
-- ![Screenshot_2025-01-06_232910 1](https://github.com/user-attachments/assets/b97c0892-3890-460c-b0b3-a06667435dc3)
+
+- ![Screenshot 2025-01-23 203803](https://github.com/user-attachments/assets/e3bed5a1-de83-44d1-b017-d6d2659a6d01)
+- ![Screenshot 2025-01-23 203836](https://github.com/user-attachments/assets/e698ac57-00e2-4712-a374-dd6b4c858f26)
+- ![Screenshot 2025-01-23 203859](https://github.com/user-attachments/assets/886c8c39-7d4a-4e8c-a7cc-9eceef274f0a)
+- ![Screenshot 2025-01-23 203916](https://github.com/user-attachments/assets/1274bc82-d8dd-42ca-bbe7-e4eddfd9f6b4)
+- ![Screenshot 2025-01-23 203954](https://github.com/user-attachments/assets/9585d77a-9fa8-4a3d-bfa8-d47a060e48a0)
+
+
 
 
 
