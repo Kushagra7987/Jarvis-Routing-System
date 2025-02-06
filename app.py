@@ -5,10 +5,10 @@ import re  # Import regex for parsing duration strings
 from datetime import datetime, timedelta, timezone
 
 # Replace these with your actual API keys
-TOMTOM_API_KEY = 'TINxeb8UBcGhcPuiYu4WuAAmSb2KBlFb'
-GOOGLE_MAPS_API_KEY = 'AIzaSyC1JrSgRtVYT86yfKAarBRaFLJ1itUU-X8'
-AQICN_API_KEY = '0b332e1a503a76636718ac342174088beefc1761'
-OPENWEATHER_API_KEY = '1a57b21448ce17abe95b6c916cf17a8c'
+TOMTOM_API_KEY = ''
+GOOGLE_MAPS_API_KEY = ''
+AQICN_API_KEY = ''
+OPENWEATHER_API_KEY = ''
 
 app = Flask(__name__)
 
